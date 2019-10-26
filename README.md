@@ -2,7 +2,7 @@
 
 A census of those participating in Hacktoberfest (and an easy PR!)
 
-This census has a live webpage [here](https://cutwell.github.io/Hacktoberfest-Census). It's automatically updated every time a PR is accepted!
+This census has a live webpage [here](https://hacktoberfest.digitalocean.com/). It's automatically updated every time a PR is accepted!
 
 ---
 ![Hacktoberfest-Census](static/img/Hackcensus.png "Hacktoberfest-Census")
@@ -555,3 +555,4 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [IgorRozani](https://github.com/igorrozani)
  - [adich23](https://github.com/adich23)
  - [abhiwin2010](https://github.com/abhiwin2010)
+ - [shank0712] (https://github.com/shank0712)
